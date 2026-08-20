@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31248026/README.md)
+
 # Raydiant
 
 **Your UV, for you.**
