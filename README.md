@@ -3,7 +3,7 @@
 
 **Your UV, for you.**
 
-Started in May 2025, after a friend and I kept going back and forth trying to figure out when to actually go tan. We'd check a weather app for UV numbers, guess at timing, and still end up either burning or missing the window entirely. There wasn't anything that turned "the UV index is 7 right now" into an actual answer to "so when should I go outside." So I built one.
+Started in May 2025, after a friend and I kept going back and forth trying to figure out when to actually go tan. We'd check a weather app for UV numbers, guess at timing, and still end up unhappy. There wasn't anything that turned "the UV index is 7 right now" into an actual answer to "so when should I go outside." So I built one.
 
 Raydiant is a SwiftUI iOS app that turns UV index, weather, and location data into a personalized daily "glow" score, tan windows, sunscreen reminders, and beauty-condition forecasts (makeup survival, hair frizz, sweatiness). It's a native app, not a website. See "Running it" below for what that means.
 
@@ -97,7 +97,3 @@ Viewing the code itself works fine in any browser once this is on GitHub. GitHub
 
 - [Open-Meteo](https://open-meteo.com/) UV index, temperature, humidity, cloud cover, sunrise/sunset (no API key required)
 - Apple's CoreLocation and CLGeocoder for location and reverse geocoding
-
-## Disclaimer
-
-Raydiant provides estimates, not medical advice. Always seek shade and apply SPF.
